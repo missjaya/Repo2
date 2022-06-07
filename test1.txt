@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A0BB-DD6D
+
+ Directory of C:\Users\MissJaya\Desktop\My Project
+
+07-06-2022  14:38    <DIR>          .
+07-06-2022  14:38    <DIR>          ..
+07-06-2022  14:38                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  406,567,825,408 bytes free
